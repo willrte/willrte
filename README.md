@@ -1,7 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=willrte&text_color=FFFFFF&title_color=78f8ff&show_icons=true&bg_color=DEG,1e1d57,8d0194&border_radius=10px)
-
-- 🔭 I’m currently working on designing a click and collect app
-- 💬 Ask me about everything
+- 🔭 I’m currently learning Godot
 
